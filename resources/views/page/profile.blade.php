@@ -39,7 +39,7 @@
     <div class="container-fluid">
         <div class="card">
             <div class="card-body">
-                    <h1>Halaman Profil</h1>
+                    <h1>Halaman Profil Pembuat</h1>
                     <div class="card">
                         <div>
                             <img src="{{ asset('asset/IMG_0586LM2021.jpg') }}" alt="Foto Profil" width="200px" height="200px">
